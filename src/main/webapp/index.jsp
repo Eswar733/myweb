@@ -5,6 +5,7 @@
 	<h1 style="color: red; font-size: 60px;" align="center">  HAI FRIENDS </h1>
 	<h1 style="color: yellow; font-size: 60px;" align="center">  DARLING </h1>
 	
+	<h1 style="color: green; font-size: 60px;" align="center">  DARLING </h1>
 	
 </body>
 </html>
